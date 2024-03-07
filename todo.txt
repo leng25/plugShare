@@ -1,0 +1,8 @@
+It needs a Google map
+        - find location were I am 
+	- show sharging stations
+
+log in page
+
+page to register house
+	put your house address
